@@ -1,5 +1,8 @@
-## Hi there 👋
+👋Hi there. I'm Andy. I am a student at Penn State studying computer science. I'm rather new to the field as a whole so my big goal is to find a specialization that I want to pursue. I love the problem solving aspect of programming and the satisfaction of getting code to work is the best so I'm sure that I'll like just about anything in computer science, I just want to find what I like best. I have a background of graphic design so if I can integrate that into my work, that would be awesome. But first, I want to get a solid understanding of the programming fundementals before I crossover the two worlds.
 
+🧠Through school, I have learned: Java, Java Swing, and Python
+
+🔭Next up on the list is: C++ and SQL
 <!--
 **Arggonaut/Arggonaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
