@@ -2,7 +2,7 @@
 
 🧠Through school, I have learned: Java, Java Swing, and Python
 
-🔭Next up on the list is: C++ and SQL
+🔭Next up on the list is: C and SQL
 <!--
 **Arggonaut/Arggonaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
